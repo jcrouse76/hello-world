@@ -8,3 +8,5 @@ Figured Git/version control would be the best place to start.
 Jason here. Adding a couple lines. Working
 with terminal on git command lines commands.
 
+Add one more line :) Practicing checkout/commit/push
+
