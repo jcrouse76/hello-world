@@ -10,3 +10,6 @@ with terminal on git command lines commands.
 
 Add one more line :) Practicing checkout/commit/push
 
+11/12/2018 - Adding this line to the README file. Blah Blah Blah
+
+
